@@ -1,0 +1,22 @@
+body {
+
+    border: 2px color #CCCCCC;
+    font-family:fantasy;
+    padding: 2px;
+    border-style: solid 1px #CCCCCC;
+    border-color: darkgray;
+    font-size: 14px;
+    
+    
+    
+}
+
+header {
+    border: solid;
+    border-bottom: solid;
+    margin: solid;
+    padding: 5;
+    border-style: solid;
+    border-color: darkgrey;
+    
+}
